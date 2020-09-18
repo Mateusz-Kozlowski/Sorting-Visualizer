@@ -8,9 +8,9 @@ The project visualizes 4 sorting algorithms:
 * quick sort (complexity: average O(n * log(n)), worst-case O(n^2))
 
 ![start](Screenshots//start.png)
-![bubble sort](Screenshots//bubble sort.png)
-![heap sort](Screenshots//heap sort.png)
-![quick sort](Screenshots//quick sort.png)
+![bubble_sort](Screenshots//bubble sort.png)
+![heap_sort](Screenshots//heap sort.png)
+![quick_sort](Screenshots//quick sort.png)
 ![sorted](Screenshots//sorted.png)
 
 # How to install:
