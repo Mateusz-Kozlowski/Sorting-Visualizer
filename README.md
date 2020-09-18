@@ -13,6 +13,8 @@ The project visualizes 4 sorting algorithms:
 ![quick sort](Screenshots//quick_sort.png)
 ![sorted](Screenshots//sorted.png)
 
+[Link to a video showing how the program exactly works](https://drive.google.com/file/d/1XjvD9-YS4mgZVFMnHF7xkKef7lpws2R3/view?usp=sharing)
+
 # How to install:
 If you're familiar with git you can clone the repo. Otherwise you can simply download whole project as a compressed folder.
 
