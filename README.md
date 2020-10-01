@@ -1,3 +1,5 @@
+-> [LINK TO A VIDEO SHOWING HOW THE PROGRAM EXACTLY WORKS](https://drive.google.com/file/d/1XjvD9-YS4mgZVFMnHF7xkKef7lpws2R3/view?usp=sharing) <-
+
 # Sorting-Visualizer
 
 # Project Description:
@@ -12,8 +14,6 @@ The project visualizes 4 sorting algorithms:
 ![heap sort](Screenshots//heap_sort.png)
 ![quick sort](Screenshots//quick_sort.png)
 ![sorted](Screenshots//sorted.png)
-
--> [Link to a video showing how the program exactly works](https://drive.google.com/file/d/1XjvD9-YS4mgZVFMnHF7xkKef7lpws2R3/view?usp=sharing) <-
 
 # How to install:
 If you're familiar with git you can clone the repo. Otherwise you can simply download whole project as a compressed folder.
