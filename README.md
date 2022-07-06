@@ -1,4 +1,4 @@
--> [LINK TO A VIDEO SHOWING HOW THE PROGRAM EXACTLY WORKS](https://drive.google.com/file/d/1XjvD9-YS4mgZVFMnHF7xkKef7lpws2R3/view?usp=sharing) <-
+-> [LINK TO A VIDEO SHOWING HOW THE PROGRAM EXACTLY WORKS](https://youtu.be/6_sju0R5Mtw) <-
 
 # Sorting-Visualizer
 
