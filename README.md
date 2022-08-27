@@ -1,3 +1,5 @@
+![quick sort](Screenshots//quick_sort.png)
+
 -> [LINK TO A VIDEO SHOWING HOW THE PROGRAM EXACTLY WORKS](https://youtu.be/6_sju0R5Mtw) <-
 
 # Sorting-Visualizer
